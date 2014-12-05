@@ -4,6 +4,8 @@ package dataStructures;
  * @author cwomble
  * A linked List is a data structure made from a list of nodes that 
  * each point to other nodes in the list.
+ * Complexity: 
+ * insert/delete/merge are O(1)
  * Pros:
  * Easy to implement insertion/deletion.
  * Dynamic, allocating memory in real time.
